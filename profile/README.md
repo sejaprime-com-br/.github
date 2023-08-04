@@ -15,7 +15,7 @@ Para trabalharmos no ambiente de desenvolvimento Núcleo precisamos dos sequinte
 
 ### 🚀 Começando
 
-Apos instalar o XAMPP adicione uma pasta sejaprime no caminho a baixo e clone os repositorios desejados
+Apos instalar o XAMPP adicione uma pasta nucleo no caminho a baixo e clone os repositorios desejados
 
 ```
 C:\xampp\htdocs\nucleo
