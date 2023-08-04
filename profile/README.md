@@ -1,10 +1,10 @@
-# Bem vindo a Seja Prime
+# Bem vindo a Núcleo de Turismo
 
-Partícipe da equipe de desenvolvimento de Sites
+Partícipe da equipe de desenvolvimento
 
 ### 📋 Pré-requisitos
 
-Para trabalharmos no ambiente de desenvolvimento da Prime precisamos dos sequintes programas instalados:
+Para trabalharmos no ambiente de desenvolvimento Núcleo precisamos dos sequintes programas instalados:
 
 
 * [Visual Studio Code](https://code.visualstudio.com/download) - Recomendado editor de código-fonte
@@ -18,5 +18,5 @@ Para trabalharmos no ambiente de desenvolvimento da Prime precisamos dos sequint
 Apos instalar o XAMPP adicione uma pasta sejaprime no caminho a baixo e clone os repositorios desejados
 
 ```
-C:\xampp\htdocs\sejaprime
+C:\xampp\htdocs\nucleo
 ```
